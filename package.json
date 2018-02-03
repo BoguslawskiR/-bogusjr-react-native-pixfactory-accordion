@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-pixfactory-accordion",
+        "scope": null,
+        "escapedName": "react-native-pixfactory-accordion",
+        "name": "react-native-pixfactory-accordion",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/radek/tablerApp"
+    ]
+  ],
+  "_from": "react-native-pixfactory-accordion@latest",
+  "_id": "react-native-pixfactory-accordion@0.2.3",
+  "_inCache": true,
+  "_location": "/react-native-pixfactory-accordion",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-pixfactory-accordion-0.2.3.tgz_1487508529556_0.29941894742660224"
+  },
+  "_npmUser": {
+    "name": "aminebenseddik",
+    "email": "amine.benseddik@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-pixfactory-accordion",
+    "scope": null,
+    "escapedName": "react-native-pixfactory-accordion",
+    "name": "react-native-pixfactory-accordion",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pixfactory-accordion/-/react-native-pixfactory-accordion-0.2.3.tgz",
+  "_shasum": "e7628a049a32d6a0bcb2dbe093e5517784e05216",
+  "_shrinkwrap": null,
+  "_spec": "react-native-pixfactory-accordion",
+  "_where": "/Users/radek/tablerApp",
+  "author": {
+    "name": "Amine Benseddik",
+    "email": "amine.benseddik@pixelfactory.io"
+  },
+  "bugs": {
+    "url": "https://github.com/amine7536/react-native-pixfactory-accordion/issues"
+  },
+  "dependencies": {},
+  "description": "React Native Accordion implementation using react-native-collapsible",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "babel-preset-airbnb": "^2.0.0",
+    "babel-preset-react-native": "^1.9.0",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0",
+    "eslint-plugin-react-native": "^2.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e7628a049a32d6a0bcb2dbe093e5517784e05216",
+    "tarball": "https://registry.npmjs.org/react-native-pixfactory-accordion/-/react-native-pixfactory-accordion-0.2.3.tgz"
+  },
+  "gitHead": "fbb97f87945ba0a482787c47475bbf3fea440365",
+  "homepage": "https://github.com/amine7536/react-native-pixfactory-accordion#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "collapse",
+    "collapsible",
+    "toggle",
+    "accordion"
+  ],
+  "license": "MIT",
+  "main": "PixAccordion.js",
+  "maintainers": [
+    {
+      "name": "aminebenseddik",
+      "email": "amine.benseddik@gmail.com"
+    }
+  ],
+  "name": "react-native-pixfactory-accordion",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amine7536/react-native-pixfactory-accordion.git"
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "version": "0.2.3"
+}
